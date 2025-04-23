@@ -1,0 +1,34 @@
+{
+  "sections": [
+    {
+      "headline": "Майнинговые пулы",
+      "children": [
+        { "name": "Bitcoin майнинг-пул", "href": "#" },
+        { "name": "Bitcoin cash майнинг-пул", "href": "#" },
+        { "name": "Fractal Bitcoin майнинг-пул", "href": "#" },
+        { "name": "Litecoin майнинг-пул", "href": "#" }
+      ]
+    },
+    {
+      "headline": "Информация",
+      "children": [
+        { "name": "О нас", "href": "/about-us" },
+        { "name": "Контакты", "href": "/contact-us" }
+      ]
+    },
+    {
+      "headline": "Помощь",
+      "children": [{ "name": "Поддержка", "href": "#" }]
+    },
+    {
+      "headline": "Контакты",
+      "children": [
+        { "name": "@rupoolpro_support", "href": "https://t.me/rupoolpro_support", "external": true }
+      ]
+    }
+  ],
+  "links": {
+    "policy": "Политика обработки персональных данных",
+    "termsOfUse": "Условия пользования"
+  }
+}

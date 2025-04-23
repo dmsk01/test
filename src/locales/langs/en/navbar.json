@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "mining": "Mining",
+    "news": "News",
+    "home": "Home",
+    "components": "Components",
+    "pages": "Pages",
+    "docs": "Documentation",
+    "other": "Other",
+    "about": "About Us",
+    "contact": "Contact",
+    "faqs": "FAQs",
+    "pricing": "Pricing",
+    "payment": "Payment",
+    "maintenance": "Maintenance",
+    "comingSoon": "Coming Soon",
+
+    "concepts": "Concepts",
+    "shop": "Shop",
+    "product": "Product",
+    "checkout": "Checkout",
+    "posts": "Posts",
+    "post": "Post",
+
+    "authDemo": "Authentication",
+    "signInSplit": "Sign In (split)",
+    "signUpSplit": "Sign Up (split)",
+    "resetPasswordSplit": "Reset Password (split)",
+    "updatePasswordSplit": "Update Password (split)",
+    "verifySplit": "Verify (split)",
+    "signInCentered": "Sign In (centered)",
+    "signUpCentered": "Sign Up (centered)",
+    "resetPasswordCentered": "Reset Password (centered)",
+    "updatePasswordCentered": "Update Password (centered)",
+    "verifyCentered": "Verify (centered)",
+
+    "error": "Errors",
+    "page403": "Page 403",
+    "page404": "Page 404",
+    "page500": "Page 500",
+
+    "dashboard": "Dashboard"
+  }
+}

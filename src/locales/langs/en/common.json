@@ -1,0 +1,190 @@
+{
+  "pages": {
+    "home": {
+      "title": "Cryptocurrency mining pool RuPool",
+      "description": "Connect and get high income!",
+      "forVip": "For VIP clients",
+      "vipCall": "Enjoy exclusive privileges and features as a VIP member. Get early access to new updates, personalized support and more.",
+      "getVip": "Get VIP",
+      "forTheBest": "Multipool for those who choose the best!",
+      "mineCall": "Mine cryptocurrency with us and have fun.",
+      "faqTitle": "We’ve got the answers",
+      "ourSeviceTitle": "Our service",
+      "newsTitle": "News",
+      "faqTitle1": "We’ve got the answers",
+      "faqTitle2": "to your questions",
+      "howTitle1": "How does",
+      "howTitle2": "mining pool work",
+      "newsTitle1": "Latests",
+      "newsTitle2": "news",
+      "features": {
+        "feature1": {
+          "title": "High income",
+          "description": "Maximum profit. Higher than on all known pools."
+        },
+        "feature2": {
+          "title": "Daily payouts",
+          "description": "We pay every day. No minimum threshold."
+        },
+        "feature3": {
+          "title": "24/7 support",
+          "description": "Professional support won't leave you in trouble."
+        },
+        "feature4": {
+          "title": "Own coin",
+          "description": "Accrued for mining. Always growing in value."
+        }
+      },
+      "flow": {
+        "sectionTitle1": "Only 3 steps,",
+        "sectionTitle2": "to start mining",
+        "card1": {
+          "title": "Sign up on RuPool!",
+          "text": "Click 'Connect', you'll only need to create a secure password and provide an email address."
+        },
+        "card2": {
+          "title": "Connect your hardware",
+          "text": "To start mining, specify the stratum for the required cryptocurrency. A stratum is the server address that the hardware contacts to receive tasks from the pool and submit solutions (shares)."
+        },
+        "card3": {
+          "title": "Set up payouts",
+          "text": "Choose a threshold and set the address for receiving earnings."
+        }
+      }
+    },
+    "dashboard": {
+      "greeting": "Hi, Welcome back!",
+      "hashrateTitle": "Hashrate",
+      "workersTitle": "Workers",
+      "incomeTitle": "Income",
+      "paymentForecastTitle": "Payout Forecast",
+      "today": "Today",
+      "yesterday": "Yesterday",
+      "off": "Off",
+      "on": "On",
+      "now": "Now",
+      "24hours": "24 Hours",
+      "seconds": "Seconds",
+      "minutes": "Minutes",
+      "hours": "Hours",
+      "hour": "Hour",
+      "days": "Days",
+      "day": "Day",
+      "week": "Week",
+      "month": "Month",
+      "miningSettings": "Mining Settings",
+      "country": "Country",
+      "address": "Address",
+      "ports": "Ports",
+      "worker": "Worker",
+      "pwd": "Password",
+      "algorithm": "Algorithm",
+      "incomeCalc": "Profit Calculator",
+      "incomeYesterday": "Income Yesterday",
+      "toCount": "Calculate",
+      "electricity": "Include electricity costs",
+      "includeEnergyConsumption": "Include electricity costs",
+      "energyConsumption": "Power Consumption (W)",
+      "electricityPrice": "Electricity Price (kWh)"
+    }
+  },
+  "shared": {
+    "signIn": "Sign in",
+    "signInPage": "Go to login page",
+    "callForCheck": "Almost there!",
+    "howToConnect": "How to connect?",
+    "emailSent": "We've sent a confirmation email. Please check your inbox and follow the instructions.",
+    "emailSuccessfullyConfirmed": "Your email has been successfully verified. You can now log in.",
+    "emailConfirmError": "Invalid link",
+    "unknownError": "An unknown error occurred. Please try again later.",
+    "registerAgain": "Try to register again",
+    "signUp": "Sign Up",
+    "signOut": "Logout",
+    "more": "View more",
+    "allRights": "All rights reserved",
+    "callForUse": "Start earning with our mining pool! A modern platform, transparent payouts, and maximum efficiency—everything is ready for your success in the world of cryptocurrency.",
+    "callForConnect": {
+      "title": "RuPool Mining Pool",
+      "text": "We make mining simple, convenient, and profitable.",
+      "callForConnect": "Connect to the pool",
+      "howToConnect": "How to connect?"
+    }
+  },
+  "nav": {
+    "mining": "Mining",
+    "blog": "Blog",
+    "coin": "Coin"
+  },
+  "nav-aside": {
+    "cabinet": "Cabinet",
+    "workers": "Workers",
+    "coin": "Coin",
+    "settings": "Settings"
+  },
+  "footer-nav": {
+    "legal": "Legal",
+    "contact": "Contact",
+    "firm": "Rupool.Pro",
+    "support": "@rupoolpro_support",
+    "aboutUs": "About us",
+    "partners": "Partners",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "conditions": "Terms and condition",
+    "privacy": "Privacy policy"
+  },
+  "support": {
+    "title": "Still have questions?",
+    "text": "Describe your case to get the most accurate advice in our Telegram support chat."
+  },
+  "chart": {
+    "title": "Price dynamics chart",
+    "calc": "Mining profitability calculator",
+    "hashrate": "Pool hashrate",
+    "price": "Coin price",
+    "difficulty": "Difficulty",
+    "1d": "1 day",
+    "7d": "7 days",
+    "30d": "30 days"
+  },
+  "hashTable": {
+    "coin": "Coin",
+    "ticker": "Ticker",
+    "price": "Price",
+    "algorithm": "Algorithm",
+    "hashrate": "Pool Hashrate",
+    "callForMine": "Start mining"
+  },
+  "footer": {
+    "sections": [
+      {
+        "headline": "Mining Pools",
+        "children": [
+          { "name": "Bitcoin mining pool" },
+          { "name": "Bitcoin cash mining pool" },
+          { "name": "Fractal Bitcoin mining pool" },
+          { "name": "Litecoin mining pool" }
+        ]
+      },
+      {
+        "headline": "Information",
+        "children": [
+          { "name": "About us" },
+          { "name": "Contact" }
+        ]
+      },
+      {
+        "headline": "Support",
+        "children": [
+          { "name": "Help Center" }
+        ]
+      },
+      {
+        "headline": "Contacts",
+        "children": [
+          { "name": "@rupoolpro_support" }
+        ]
+      }
+    ]
+  }
+}

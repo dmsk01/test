@@ -1,0 +1,34 @@
+{
+  "sections": [
+    {
+      "headline": "Mining Pools",
+      "children": [
+        { "name": "Bitcoin mining pool", "href": "#" },
+        { "name": "Bitcoin cash mining pool", "href": "#" },
+        { "name": "Fractal Bitcoin mining pool", "href": "#" },
+        { "name": "Litecoin mining pool", "href": "#" }
+      ]
+    },
+    {
+      "headline": "Information",
+      "children": [
+        { "name": "About us", "href": "/about-us" },
+        { "name": "Contact us", "href": "/contact-us" }
+      ]
+    },
+    {
+      "headline": "Help",
+      "children": [{ "name": "Support", "href": "#" }]
+    },
+    {
+      "headline": "Contacts",
+      "children": [
+        { "name": "@rupoolpro_support", "href": "https://t.me/rupoolpro_support", "external": true }
+      ]
+    }
+  ],
+  "links": {
+    "policy": "Privacy Policy",
+    "termsOfUse": "Terms of Use"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "mining": "Майнинг",
+    "news": "Новости",
+    "home": "Главная",
+    "components": "Компоненты",
+    "pages": "Страницы",
+    "docs": "Документация",
+    "other": "Прочее",
+    "about": "О нас",
+    "contact": "Контакты",
+    "faqs": "FAQ",
+    "pricing": "Цены",
+    "payment": "Оплата",
+    "maintenance": "Обслуживание",
+    "comingSoon": "Скоро будет",
+
+    "concepts": "Концепции",
+    "shop": "Магазин",
+    "product": "Товар",
+    "checkout": "Оформление",
+    "posts": "Посты",
+    "post": "Пост",
+
+    "authDemo": "Аутентификация",
+    "signInSplit": "Войти (split)",
+    "signUpSplit": "Регистрация (split)",
+    "resetPasswordSplit": "Сброс пароля (split)",
+    "updatePasswordSplit": "Обновить пароль (split)",
+    "verifySplit": "Подтвердить (split)",
+    "signInCentered": "Войти (centered)",
+    "signUpCentered": "Регистрация (centered)",
+    "resetPasswordCentered": "Сброс пароля (centered)",
+    "updatePasswordCentered": "Обновить пароль (centered)",
+    "verifyCentered": "Подтвердить (centered)",
+
+    "error": "Ошибки",
+    "page403": "Страница 403",
+    "page404": "Страница 404",
+    "page500": "Страница 500",
+
+    "dashboard": "Дашборд"
+  }
+}
